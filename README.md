@@ -2,7 +2,7 @@
 
 ## Fundamentos
 
-* [Conceptos OO](https://github.com/MCC-MOO-EJ23/dp-index/blob/main/Fundamentos%20OO.pdf)
+* [Conceptos OO](https://github.com/MCC-MOO-EJ23/dp-index/Fundamentos%20OO.pdf)
 
 ## Creacionales
 * Singleton
