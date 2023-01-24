@@ -1,25 +1,23 @@
 # Patrones de Diseño GoF - Índice
 
-[Home](https://github.com/SISEI2022)
-
 ## Fundamentos
 
-* [Conceptos OO](https://github.com/SISEI2022/dp-index/blob/main/Fundamentos%20OO.pdf)
+* [Conceptos OO](https://github.com/MCC-MOO-EJ23/dp-index/blob/main/Fundamentos%20OO.pdf)
 
 ## Creacionales
-* [Singleton](https://github.com/SISEI2022/dp-singleton) (Bootcamp : Docker)
+* Singleton
 
 ## Estructurales
 
-* [Adapter](https://github.com/SISEI2022/dp-adapter)
-* [Facade](https://github.com/SISEI2022/dp-facade)
-* [Proxy](https://github.com/SISEI2022/dp-proxy)
+* Adapter
+* Facade
+* Proxy
 
 ## Conductuales
 
-* [Observer](https://github.com/SISEI2022/dp-observer)
-* [Strategy](https://github.com/SISEI2022/dp-strategy) (Bootcamp : Docker)
-* [Mediator](https://github.com/SISEI2022/dp-mediator)
+* Observer
+* [Strategy](https://github.com/MCC-MOO-EJ23/dp-strategy) (Bootcamp : Docker)
+* Mediator
 
 ## Clasificación
 
