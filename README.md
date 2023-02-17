@@ -15,7 +15,7 @@
 
 ## Conductuales
 
-* Observer
+* [Observer](https://github.com/MCC-MOO-EJ23/dp-observer)
 * [Strategy](https://github.com/MCC-MOO-EJ23/dp-strategy) (Bootcamp : Docker)
 * Mediator
 
