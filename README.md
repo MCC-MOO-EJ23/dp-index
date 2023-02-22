@@ -9,6 +9,7 @@
 
 ## Estructurales
 
+* [Decorator](https://github.com/MCC-MOO-EJ23/dp-decorator)
 * Adapter
 * Facade
 * Proxy
